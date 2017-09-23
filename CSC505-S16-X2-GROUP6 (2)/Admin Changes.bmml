@@ -1,0 +1,80 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="886" measuredH="660" mockupW="294" mockupH="590">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="592" y="70" w="294" h="590" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allBlack</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="694" y="175" w="78" h="-1" measuredW="72" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16767334</color>
+        <size>16</size>
+        <text>%20%20MOVIES</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="774" y="345" w="63" h="24" measuredW="163" measuredH="58" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/BT.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="617" y="199" w="220" h="108" measuredW="736" measuredH="477" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>THE%20JUNGLE%20BOOK%26bm%3BTHE%20JUNGLE%20BOOK.bmml%26bm%3BTHE%20JUNGLE%20BOOK.bmml%26bm%3BTHE%20JUNGLE%20BOOK.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2225%2C129%2C245%2C237%22%20href%3D%22THE%2520JUNGLE%2520BOOK.bmml%22%20alt%3D%22THE%20JUNGLE%20BOOK%22%20id%3D%229%22/%3E</map>
+        <src>./assets/M.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="617" y="174" w="220" h="398" measuredW="550" measuredH="348" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="617" y="306" w="220" h="111" measuredW="750" measuredH="473" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>THE%20HUNTSMAN%20WINTERS%20WAR%26bm%3BTHE%20HUNTSMAN%20WINTERS%20WAR.bmml%26bm%3BTHE%20HUNTSMAN%20WINTERS%20WAR.bmml%26bm%3BTHE%20HUNTSMAN%20WINTERS%20WAR.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2225%2C236%2C245%2C347%22%20href%3D%22THE%2520HUNTSMAN%2520WINTERS%2520WAR.bmml%22%20alt%3D%22THE%20HUNTSMAN%20WINTERS%20WAR%22%20id%3D%2211%22/%3E</map>
+        <src>./assets/2.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="837" y="174" w="-1" h="398" measuredW="16" measuredH="100" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="617" y="417" w="224" h="155" measuredW="224" measuredH="332" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/poster_127045_1461873030.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::PointyButton" x="619" y="174" w="60" h="-1" measuredW="59" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>40463</color>
+        <direction>left</direction>
+        <href>Admin%20Movie%20Home%26bm%3BAdmin%20Movie%20Home.bmml%26bm%3BAdmin%20Movie%20Home.bmml%26bm%3BAdmin%20Movie%20Home.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C104%2C87%2C131%22%20href%3D%22Admin%2520Movie%2520Home.bmml%22%20alt%3D%22Admin%20Movie%20Home%22%20id%3D%2225%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::PointyButton" x="783" y="174" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>40463</color>
+        <direction>center</direction>
+        <href>Admin%20Dashboard%26bm%3BAdmin%20Dashboard.bmml%26bm%3BAdmin%20Dashboard.bmml%26bm%3BAdmin%20Dashboard.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22191%2C104%2C245%2C131%22%20href%3D%22Admin%2520Dashboard.bmml%22%20alt%3D%22Admin%20Dashboard%22%20id%3D%2226%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Icon" x="783" y="518" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>check-circle-o%7Clarge</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

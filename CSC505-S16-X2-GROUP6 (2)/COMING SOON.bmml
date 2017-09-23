@@ -1,0 +1,71 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="986" measuredH="616" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="704" y="43" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="730" y="139" w="229" h="393" measuredW="550" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="797" y="146" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C103%2C189%2C130%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%222%22/%3E</map>
+        <text>HOME%20PAGE</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="806" y="166" w="78" h="-1" measuredW="72" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16767334</color>
+        <size>16</size>
+        <text>%20%20MOVIES</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="842" y="217" w="115" h="-1" measuredW="109" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>focused</state>
+        <text>COMING%20SOON</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::SearchBox" x="785" y="190" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="730" y="244" w="229" h="161" measuredW="750" measuredH="479" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Captain%20america%26bm%3BCaptain%20america.bmml%26bm%3BCaptain%20america.bmml%26bm%3BCaptain%20america.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C201%2C255%2C362%22%20href%3D%22Captain%2520america.bmml%22%20alt%3D%22Captain%20america%22%20id%3D%228%22/%3E</map>
+        <src>./assets/2222.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="730" y="405" w="229" h="127" measuredW="750" measuredH="299" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ANGRY%20BIRD%26bm%3BANGRY%20BIRD.bmml%26bm%3BANGRY%20BIRD.bmml%26bm%3BANGRY%20BIRD.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C362%2C255%2C489%22%20href%3D%22ANGRY%2520BIRD.bmml%22%20alt%3D%22ANGRY%20BIRD%22%20id%3D%229%22/%3E</map>
+        <src>./assets/25.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="730" y="217" w="112" h="27" measuredW="107" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C174%2C138%2C201%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%2210%22/%3E</map>
+        <size>14</size>
+        <text>Now%20Showing</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="732" y="139" w="38" h="27" measuredW="95" measuredH="84" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Master%20Page%201%26bm%3BMaster%20Page%201.bmml%26bm%3BMaster%20Page%201.bmml%26bm%3BMaster%20Page%201.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2228%2C96%2C66%2C123%22%20href%3D%22Master%2520Page%25201.bmml%22%20alt%3D%22Master%20Page%201%22%20id%3D%2212%22/%3E</map>
+        <src>./assets/FullSizeRender.jpg</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

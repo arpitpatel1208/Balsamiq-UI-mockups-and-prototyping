@@ -1,0 +1,64 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="998" measuredH="667" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="716" y="94" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="742" y="194" w="230" h="390" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/unnamed.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="757" y="261" w="200" h="169" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20will%20receive%20a%20purchase%20confirmation%20email%20within%20minutes%20of%20booking%20of%20your%20tickets%20from%20our%20application.%20This%20e%20-mail%20confirmation%20contains%20the%20details%20of%20your%20booking%20and%20the%20amount%20you%20paid.%20You%20can%20also%20get%20the%20attachment%20of%20PDF%20file%20of%20your%20tickets.</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="802" y="219" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2286%2C125%2C182%2C152%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%223%22/%3E</map>
+        <text>HOME%20PAGE</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::iPhone" x="716" y="94" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="742" y="194" w="230" h="390" measuredW="550" measuredH="348" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="757" y="276" w="200" h="169" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <bold>true</bold>
+        <borderColor>0</borderColor>
+        <color>16777215</color>
+        <text>You%20will%20receive%20a%20email%20confirmation%20a%20minute%20of%20ordering%20of%20food%20from%20our%20application.%20The%20e%20-mail%20contains%20orderng%20information%20and%20the%20amount%20you%20paid.%20Please%20show%20the%20confirmation%20e-mail%20at%20the%20food%20and%20beverages%20counter.</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="802" y="219" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2286%2C125%2C182%2C152%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%227%22/%3E</map>
+        <text>HOME%20PAGE</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="819" y="471" w="63" h="27" measuredW="41" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <href>food%20confirmation%26bm%3Bfood%20confirmation.bmml%26bm%3Bfood%20confirmation.bmml%26bm%3Bfood%20confirmation.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22103%2C377%2C166%2C404%22%20href%3D%22food%2520confirmation.bmml%22%20alt%3D%22food%20confirmation%22%20id%3D%228%22/%3E</map>
+        <text>OK</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

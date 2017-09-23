@@ -1,0 +1,88 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="892" measuredH="601" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="610" y="28" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="638" y="131" w="227" h="391" measuredW="550" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="704" y="131" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2294%2C103%2C190%2C130%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%222%22/%3E</map>
+        <text>HOME%20PAGE</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="638" y="188" w="162" h="27" measuredW="158" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>NUMBER%20OF%20TICKETS</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::NumericStepper" x="815" y="189" w="-1" h="-1" measuredW="39" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>65535</color>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="643" y="245" w="152" h="27" measuredW="63" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>ADULT</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="643" y="287" w="152" h="27" measuredW="72" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>SENIOR</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="643" y="329" w="149" h="27" measuredW="62" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>CHILD</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::NumericStepper" x="815" y="248" w="-1" h="-1" measuredW="39" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>65535</color>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::NumericStepper" x="815" y="288" w="-1" h="-1" measuredW="39" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>65535</color>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::NumericStepper" x="815" y="330" w="-1" h="-1" measuredW="42" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>65535</color>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="760" y="392" w="99" h="27" measuredW="50" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>11982760</color>
+        <href>Seat%20Selection%26bm%3BSeat%20Selection.bmml%26bm%3BSeat%20Selection.bmml%26bm%3BSeat%20Selection.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22150%2C364%2C249%2C391%22%20href%3D%22Seat%2520Selection.bmml%22%20alt%3D%22Seat%20Selection%22%20id%3D%2212%22/%3E</map>
+        <text>BUY</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="646" y="392" w="99" h="27" measuredW="75" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>11982760</color>
+        <href>Hunts%20Show%20timings%26bm%3BHunts%20Show%20timings.bmml%26bm%3BHunts%20Show%20timings.bmml%26bm%3BHunts%20Show%20timings.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C364%2C135%2C391%22%20href%3D%22Hunts%2520Show%2520timings.bmml%22%20alt%3D%22Hunts%20Show%20timings%22%20id%3D%2213%22/%3E</map>
+        <text>CANCEL</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

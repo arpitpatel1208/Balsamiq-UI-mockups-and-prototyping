@@ -1,0 +1,65 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="754" measuredH="593" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="472" y="20" w="282" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MultilineButton" x="564" y="326" w="99" h="32" measuredW="81" measuredH="66" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>9684093</color>
+        <href>SignIn%20Page%26bm%3BSignIn%20Page.bmml%26bm%3BSignIn%20Page.bmml%26bm%3BSignIn%20Page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2292%2C306%2C191%2C338%22%20href%3D%22SignIn%2520Page.bmml%22%20alt%3D%22SignIn%20Page%22%20id%3D%222%22/%3E</map>
+        <text>Sign%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::MultilineButton" x="564" y="373" w="99" h="33" measuredW="87" measuredH="66" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>9684093</color>
+        <href>SignUp%20page%26bm%3BSignUp%20page.bmml%26bm%3BSignUp%20page.bmml%26bm%3BSignUp%20page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2292%2C353%2C191%2C386%22%20href%3D%22SignUp%2520page.bmml%22%20alt%3D%22SignUp%20page%22%20id%3D%223%22/%3E</map>
+        <text>Sign%20Up</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="529" y="435" w="104" h="25" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>12</size>
+        <text>Forgot%20Password%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="497" y="120" w="232" h="393" measuredW="550" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//www.traversecityfilmfest.org/statetheatre/historyphotos/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="633" y="435" w="-1" h="-1" measuredW="64" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <href>Sign%20In%20Problem%26bm%3BSign%20In%20Problem.bmml%26bm%3BSign%20In%20Problem.bmml%26bm%3BSign%20In%20Problem.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22161%2C415%2C225%2C434%22%20href%3D%22Sign%2520In%2520Problem.bmml%22%20alt%3D%22Sign%20In%20Problem%22%20id%3D%2211%22/%3E</map>
+        <state>disabled</state>
+        <text>Click%20Here</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="548" y="143" w="131" h="98" measuredW="230" measuredH="180" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/logo%25203.PNG</src>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="548" y="241" w="131" h="28" measuredW="61" measuredH="51" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C500%2C267%2C286</crop>
+        <src>./assets/logo%25203.PNG</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Title" x="548" y="240" w="131" h="-1" measuredW="128" measuredH="31" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>4555150</color>
+        <size>28</size>
+        <text>Theatres%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,74 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="880" measuredH="588" mockupW="308" mockupH="575">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="572" y="13" w="308" h="575" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allBlack</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="613" y="164" w="226" h="340" measuredW="750" measuredH="1014" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/seat1.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="720" y="326" w="12" h="24" measuredW="44" measuredH="57" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Payment%26bm%3BPayment.bmml%26bm%3BPayment.bmml%26bm%3BPayment.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22148%2C313%2C160%2C337%22%20href%3D%22Payment.bmml%22%20alt%3D%22Payment%22%20id%3D%224%22/%3E</map>
+        <src>./assets/seat2.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="732" y="326" w="12" h="24" measuredW="44" measuredH="57" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Payment%26bm%3BPayment.bmml%26bm%3BPayment.bmml%26bm%3BPayment.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22160%2C313%2C172%2C337%22%20href%3D%22Payment.bmml%22%20alt%3D%22Payment%22%20id%3D%225%22/%3E</map>
+        <src>./assets/seat2.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="678" y="111" w="96" h="27" measuredW="96" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22106%2C98%2C202%2C125%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%227%22/%3E</map>
+        <text>HOME%20PAGE</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::PointyButton" x="774" y="450" w="49" h="-1" measuredW="55" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>65535</color>
+        <direction>center</direction>
+        <href>Payment%26bm%3BPayment.bmml%26bm%3BPayment.bmml%26bm%3BPayment.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22202%2C437%2C251%2C464%22%20href%3D%22Payment.bmml%22%20alt%3D%22Payment%22%20id%3D%228%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>NEXT</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="613" y="116" w="38" h="27" measuredW="95" measuredH="84" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Master%20Page%201%26bm%3BMaster%20Page%201.bmml%26bm%3BMaster%20Page%201.bmml%26bm%3BMaster%20Page%201.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C103%2C79%2C130%22%20href%3D%22Master%2520Page%25201.bmml%22%20alt%3D%22Master%20Page%201%22%20id%3D%229%22/%3E</map>
+        <src>./assets/FullSizeRender.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="671" y="138" w="-1" h="-1" measuredW="113" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>545684</color>
+        <text>Select%20Your%20Seats</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::PointyButton" x="641" y="450" w="49" h="-1" measuredW="54" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>65535</color>
+        <direction>center</direction>
+        <href>Jungle%20show%20timing%26bm%3BJungle%20show%20timing.bmml%26bm%3BJungle%20show%20timing.bmml%26bm%3BJungle%20show%20timing.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2269%2C437%2C118%2C464%22%20href%3D%22Jungle%2520show%2520timing.bmml%22%20alt%3D%22Jungle%20show%20timing%22%20id%3D%2211%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>BACK</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

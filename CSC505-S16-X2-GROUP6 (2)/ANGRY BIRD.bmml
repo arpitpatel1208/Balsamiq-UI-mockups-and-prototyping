@@ -1,0 +1,54 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1047" measuredH="597" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="765" y="24" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="791" y="124" w="230" h="390" measuredW="550" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="791" y="151" w="230" h="-1" measuredW="109" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>left</direction>
+        <href>COMING%20SOON%26bm%3BCOMING%20SOON.bmml%26bm%3BCOMING%20SOON.bmml%26bm%3BCOMING%20SOON.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C127%2C256%2C154%22%20href%3D%22COMING%2520SOON.bmml%22%20alt%3D%22COMING%20SOON%22%20id%3D%222%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>ANGRY%20BIRD</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="858" y="124" w="96" h="27" measuredW="96" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C100%2C189%2C127%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%223%22/%3E</map>
+        <text>HOME%20PAGE</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="791" y="348" w="230" h="122" measuredW="585" measuredH="344" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>56%2C31%2C914%2C897</crop>
+        <href>https%3A//www.youtube.com/watch%3Fv%3DiVQJ32gIq4E</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C324%2C256%2C446%22%20href%3D%22https%3A//www.youtube.com/watch%3Fv%3DiVQJ32gIq4E%22%20alt%3D%22https%3A//www.youtube.com/watch%3Fv%3DiVQJ32gIq4E%22%20id%3D%224%22%20target%3D%22_blank%22/%3E</map>
+        <src>./assets/ANGRY%2520BIRD.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="791" y="348" w="230" h="166" measuredW="300" measuredH="200" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="791" y="178" w="230" h="170" measuredW="546" measuredH="264" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/13081770_1321186874564826_984301956_n.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="954" y="327" w="67" h="21" measuredW="163" measuredH="58" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>DETAIL%20ABOUT%20TICKETS%26bm%3BDETAIL%20ABOUT%20TICKETS.bmml%26bm%3BDETAIL%20ABOUT%20TICKETS.bmml%26bm%3BDETAIL%20ABOUT%20TICKETS.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22189%2C303%2C256%2C324%22%20href%3D%22DETAIL%2520ABOUT%2520TICKETS.bmml%22%20alt%3D%22DETAIL%20ABOUT%20TICKETS%22%20id%3D%2211%22/%3E</map>
+        <src>./assets/BT.jpg</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

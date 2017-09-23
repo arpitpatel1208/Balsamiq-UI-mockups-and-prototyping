@@ -1,0 +1,65 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="886" measuredH="660" mockupW="294" mockupH="590">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="592" y="70" w="294" h="590" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allBlack</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="710" y="175" w="58" h="-1" measuredW="42" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>16767334</color>
+        <size>16</size>
+        <text>F%20%26%20B</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="774" y="345" w="63" h="24" measuredW="163" measuredH="58" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/BT.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="617" y="174" w="220" h="398" measuredW="550" measuredH="348" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="837" y="174" w="-1" h="398" measuredW="16" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Icon" x="813" y="533" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>check%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Image" x="625" y="264" w="205" h="141" measuredW="424" measuredH="283" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//matthewhance.com/wp-content/uploads/Updated.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::PointyButton" x="617" y="174" w="60" h="-1" measuredW="59" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <href>Admin%20fNb%20Home%26bm%3BAdmin%20fNb%20Home.bmml%26bm%3BAdmin%20fNb%20Home.bmml%26bm%3BAdmin%20fNb%20Home.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2225%2C104%2C85%2C131%22%20href%3D%22Admin%2520fNb%2520Home.bmml%22%20alt%3D%22Admin%20fNb%20Home%22%20id%3D%2225%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::PointyButton" x="639" y="470" w="176" h="-1" measuredW="121" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>right</direction>
+        <href>Admin%20Changes%201%26bm%3BAdmin%20Changes%201.bmml%26bm%3BAdmin%20Changes%201.bmml%26bm%3BAdmin%20Changes%201.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2247%2C400%2C223%2C427%22%20href%3D%22Admin%2520Changes%25201.bmml%22%20alt%3D%22Admin%20Changes%201%22%20id%3D%2226%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>Check%20Updates</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

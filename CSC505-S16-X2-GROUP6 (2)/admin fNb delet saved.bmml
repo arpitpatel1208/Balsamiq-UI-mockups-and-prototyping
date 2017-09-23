@@ -1,0 +1,113 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1069" measuredH="637" mockupW="282" mockupH="613">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="787" y="24" w="282" h="613" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allBlack</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="818" y="198" w="70" h="62" measuredW="425" measuredH="391" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//www.moviesatthemarion.com/images/popcorn.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="897" y="203" w="93" h="-1" measuredW="136" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <bold>true</bold>
+        <color>0</color>
+        <size>13</size>
+        <text>Large%20PopCorn%20Salted</text>
+        <textOrientation>right</textOrientation>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="897" y="223" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <text>200%20INR</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="897" y="239" w="-1" h="-1" measuredW="81" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <text>Add%20to%20Order</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="816" y="286" w="70" h="61" measuredW="182" measuredH="150" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//www.cinepolis.com/Imagenes/Paginas/combos/Combo-Nachos.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="897" y="278" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <text>Nachos%20Combo</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="897" y="299" w="104" h="-1" measuredW="96" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <text>1%20Nachos+Pepsi</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="897" y="320" w="-1" h="-1" measuredW="52" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <text>400%20INR</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::HRule" x="812" y="268" w="229" h="-1" measuredW="100" measuredH="10" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::HRule" x="812" y="354" w="229" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::HRule" x="812" y="198" w="229" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1025" y="142" w="-1" h="393" measuredW="16" measuredH="100" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::PointyButton" x="812" y="142" w="60" h="-1" measuredW="59" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>40463</color>
+        <direction>left</direction>
+        <href>F%20n%20B%20Updated%26bm%3BF%20n%20B%20Updated.bmml%26bm%3BF%20n%20B%20Updated.bmml%26bm%3BF%20n%20B%20Updated.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2225%2C118%2C85%2C145%22%20href%3D%22F%2520n%2520B%2520Updated.bmml%22%20alt%3D%22F%20n%20B%20Updated%22%20id%3D%2233%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::PointyButton" x="971" y="142" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>40463</color>
+        <direction>center</direction>
+        <href>Admin%20Dashboard%26bm%3BAdmin%20Dashboard.bmml%26bm%3BAdmin%20Dashboard.bmml%26bm%3BAdmin%20Dashboard.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22184%2C118%2C238%2C145%22%20href%3D%22Admin%2520Dashboard.bmml%22%20alt%3D%22Admin%20Dashboard%22%20id%3D%2234%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="897" y="143" w="58" h="-1" measuredW="42" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>16767334</color>
+        <size>16</size>
+        <text>F%20%26%20B</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="864" y="176" w="-1" h="-1" measuredW="129" measuredH="22" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <size>14</size>
+        <text>Changes%20are%20Saved</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

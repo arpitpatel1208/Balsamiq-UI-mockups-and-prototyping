@@ -1,0 +1,16 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="182" measuredH="113" mockupW="122" mockupH="93">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="60" y="20" w="122" h="93" measuredW="122" measuredH="93" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Choose%20one</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="0" w="122" h="-1" measuredW="139" measuredH="93" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>American%20Express%0AGift%20Card%0AVisa%20Card%0AMaster%20Card%0AHold%20In</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,36 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1022" measuredH="614" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="740" y="41" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="765" y="141" w="232" h="390" measuredW="550" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="842" y="226" w="78" h="68" measuredW="102" measuredH="102" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/RIGHT.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="801" y="313" w="161" h="29" measuredW="445" measuredH="113" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>11%2C511%2C989%2C305</crop>
+        <src>./assets/CONFORMED.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="852" y="365" w="58" h="-1" measuredW="39" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>center</direction>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22112%2C324%2C170%2C351%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%226%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>OK</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

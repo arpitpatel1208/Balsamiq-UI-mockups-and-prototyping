@@ -1,0 +1,224 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="950" measuredH="581" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="668" y="8" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allBlack</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="753" y="118" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2285%2C110%2C181%2C137%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%2213%22/%3E</map>
+        <text>HOME%20PAGE</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Image" x="698" y="387" w="216" h="35" measuredW="464" measuredH="92" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Privacy%26bm%3BPrivacy.bmml%26bm%3BPrivacy.bmml%26bm%3BPrivacy.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C379%2C246%2C414%22%20href%3D%22Privacy.bmml%22%20alt%3D%22Privacy%22%20id%3D%2216%22/%3E</map>
+        <src>./assets/image2%2520%281%29.PNG</src>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="698" y="353" w="216" h="34" measuredW="525" measuredH="96" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Terms%26bm%3BTerms.bmml%26bm%3BTerms.bmml%26bm%3BTerms.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C345%2C246%2C379%22%20href%3D%22Terms.bmml%22%20alt%3D%22Terms%22%20id%3D%2217%22/%3E</map>
+        <src>./assets/image1%2520%281%29.PNG</src>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="698" y="420" w="216" h="34" measuredW="489" measuredH="94" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>ContactPage%26bm%3BContactPage.bmml%26bm%3BContactPage.bmml%26bm%3BContactPage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C412%2C246%2C446%22%20href%3D%22ContactPage.bmml%22%20alt%3D%22ContactPage%22%20id%3D%2218%22/%3E</map>
+        <src>./assets/FullSizeRender2.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="698" y="160" w="179" h="29" measuredW="517" measuredH="93" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C0%2C800%2C800</crop>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C152%2C209%2C181%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%2237%22/%3E</map>
+        <rotation>0</rotation>
+        <src>./assets/image1.PNG</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="698" y="222" w="175" h="29" measuredW="502" measuredH="93" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <crop>22%2C0%2C778%2C800</crop>
+        <href>Food%20N%20Beverages%26bm%3BFood%20N%20Beverages.bmml%26bm%3BFood%20N%20Beverages.bmml%26bm%3BFood%20N%20Beverages.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C214%2C205%2C243%22%20href%3D%22Food%2520N%2520Beverages.bmml%22%20alt%3D%22Food%20N%20Beverages%22%20id%3D%2238%22/%3E</map>
+        <src>./assets/image4.PNG</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Image" x="704" y="258" w="111" h="29" measuredW="297" measuredH="75" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>39%2C250%2C460%2C550</crop>
+        <href>Cinema%20Locator%26bm%3BCinema%20Locator.bmml%26bm%3BCinema%20Locator.bmml%26bm%3BCinema%20Locator.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2236%2C250%2C147%2C279%22%20href%3D%22Cinema%2520Locator.bmml%22%20alt%3D%22Cinema%20Locator%22%20id%3D%2239%22/%3E</map>
+        <src>./assets/image3.PNG</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Image" x="699" y="288" w="158" h="26" measuredW="403" measuredH="61" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>8%2C291%2C644%2C537</crop>
+        <href>settings%26bm%3Bsettings.bmml%26bm%3Bsettings.bmml%26bm%3Bsettings.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C280%2C189%2C306%22%20href%3D%22settings.bmml%22%20alt%3D%22settings%22%20id%3D%2241%22/%3E</map>
+        <src>./assets/image6.PNG</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="698" y="196" w="180" h="29" measuredW="518" measuredH="93" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>4%2C200%2C800%2C800</crop>
+        <href>COMING%20SOON%26bm%3BCOMING%20SOON.bmml%26bm%3BCOMING%20SOON.bmml%26bm%3BCOMING%20SOON.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C188%2C210%2C217%22%20href%3D%22COMING%2520SOON.bmml%22%20alt%3D%22COMING%20SOON%22%20id%3D%2242%22/%3E</map>
+        <src>./assets/image2.PNG</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Image" x="699" y="311" w="153" h="32" measuredW="417" measuredH="83" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C143%2C647%2C657</crop>
+        <href>Master%20page%201%26bm%3BMaster%20page%201.bmml%26bm%3BMaster%20page%201.bmml%26bm%3BMaster%20page%201.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C303%2C184%2C335%22%20href%3D%22Master%2520page%25201.bmml%22%20alt%3D%22Master%20page%201%22%20id%3D%2243%22/%3E</map>
+        <src>./assets/image7.PNG</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::HRule" x="698" y="382" w="224" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::PointyButton" x="725" y="232" w="104" h="-1" measuredW="110" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>center</direction>
+        <href>Food%20N%20Beverages%26bm%3BFood%20N%20Beverages.bmml%26bm%3BFood%20N%20Beverages.bmml%26bm%3BFood%20N%20Beverages.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C224%2C161%2C251%22%20href%3D%22Food%2520N%2520Beverages.bmml%22%20alt%3D%22Food%20N%20Beverages%22%20id%3D%2246%22/%3E</map>
+        <newLayout>true</newLayout>
+        <size>11</size>
+        <text>Food%20%26%20Beverages</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::HRule" x="698" y="258" w="224" h="-1" measuredW="100" measuredH="10" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="787" y="262" w="-1" h="-1" measuredW="42" measuredH="20" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Locator</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::HRule" x="698" y="348" w="224" h="-1" measuredW="100" measuredH="10" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::HRule" x="698" y="287" w="224" h="-1" measuredW="100" measuredH="10" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::HRule" x="689" y="222" w="224" h="-1" measuredW="100" measuredH="10" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::HRule" x="689" y="189" w="224" h="-1" measuredW="100" measuredH="10" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::HRule" x="689" y="160" w="224" h="-1" measuredW="100" measuredH="10" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Image" x="887" y="108" w="34" h="389" measuredW="116" measuredH="818" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C43%2C1000%2C957</crop>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22219%2C100%2C253%2C489%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%2254%22/%3E</map>
+        <src>./assets/Slide.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Image" x="887" y="108" w="35" h="27" measuredW="95" measuredH="84" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22219%2C100%2C254%2C127%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%2255%22/%3E</map>
+        <src>./assets/FullSizeRender.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Icon" x="856" y="363" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>angle-down%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Icon" x="856" y="202" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>angle-right%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Icon" x="856" y="237" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>angle-right%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Icon" x="856" y="268" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>angle-right%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Icon" x="856" y="170" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>angle-right%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Icon" x="856" y="332" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>angle-right%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::HRule" x="689" y="314" w="224" h="-1" measuredW="100" measuredH="10" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Icon" x="862" y="297" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>angle-right%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Image" x="699" y="454" w="184" h="37" measuredW="401" measuredH="108" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>21%2C0%2C673%2C1000</crop>
+        <href>ContactPage%26bm%3BContactPage.bmml%26bm%3BContactPage.bmml%26bm%3BContactPage.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2231%2C446%2C215%2C483%22%20href%3D%22ContactPage.bmml%22%20alt%3D%22ContactPage%22%20id%3D%2269%22/%3E</map>
+        <src>./assets/logout.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::PointyButton" x="728" y="459" w="74" h="-1" measuredW="61" measuredH="27" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <direction>center</direction>
+        <href>First%20Page%26bm%3BFirst%20Page.bmml%26bm%3BFirst%20Page.bmml%26bm%3BFirst%20Page.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2260%2C451%2C134%2C478%22%20href%3D%22First%2520Page.bmml%22%20alt%3D%22First%20Page%22%20id%3D%2271%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>Logout</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,78 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1022" measuredH="614" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="740" y="41" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="765" y="141" w="232" h="390" measuredW="550" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="822" y="210" w="-1" h="-1" measuredW="118" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>Admin%20Dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="765" y="300" w="-1" h="-1" measuredW="107" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <text>Movie%20Contents</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="765" y="366" w="133" h="-1" measuredW="134" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <text>Food%20and%20Beverages</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::PointyButton" x="928" y="504" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>center</direction>
+        <href>Admin%20Log%20in%26bm%3BAdmin%20Log%20in.bmml%26bm%3BAdmin%20Log%20in.bmml%26bm%3BAdmin%20Log%20in.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22188%2C463%2C249%2C490%22%20href%3D%22Admin%2520Log%2520in.bmml%22%20alt%3D%22Admin%20Log%20in%22%20id%3D%2214%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="913" y="300" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>40463</color>
+        <href>Admin%20Movie%20Home%26bm%3BAdmin%20Movie%20Home.bmml%26bm%3BAdmin%20Movie%20Home.bmml%26bm%3BAdmin%20Movie%20Home.bmml</href>
+        <icon>check-circle%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22173%2C259%2C205%2C291%22%20href%3D%22Admin%2520Movie%2520Home.bmml%22%20alt%3D%22Admin%20Movie%20Home%22%20id%3D%2215%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Icon" x="913" y="361" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>40463</color>
+        <href>Admin%20fNb%20Home%26bm%3BAdmin%20fNb%20Home.bmml%26bm%3BAdmin%20fNb%20Home.bmml%26bm%3BAdmin%20fNb%20Home.bmml</href>
+        <icon>check-circle%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22173%2C320%2C205%2C352%22%20href%3D%22Admin%2520fNb%2520Home.bmml%22%20alt%3D%22Admin%20fNb%20Home%22%20id%3D%2216%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Icon" x="955" y="300" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>13369344</color>
+        <href>admin%20movie%20delete%26bm%3Badmin%20movie%20delete.bmml%26bm%3Badmin%20movie%20delete.bmml%26bm%3Badmin%20movie%20delete.bmml</href>
+        <icon>trash%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22215%2C259%2C247%2C291%22%20href%3D%22admin%2520movie%2520delete.bmml%22%20alt%3D%22admin%20movie%20delete%22%20id%3D%2217%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="955" y="361" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>13369344</color>
+        <href>admin%20bNb%20delete%26bm%3Badmin%20bNb%20delete.bmml%26bm%3Badmin%20bNb%20delete.bmml%26bm%3Badmin%20bNb%20delete.bmml</href>
+        <icon>trash%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22215%2C320%2C247%2C352%22%20href%3D%22admin%2520bNb%2520delete.bmml%22%20alt%3D%22admin%20bNb%20delete%22%20id%3D%2218%22/%3E</map>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

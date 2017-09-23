@@ -1,0 +1,75 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1069" measuredH="675" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="787" y="102" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="809" y="204" w="231" h="388" measuredW="550" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="880" y="211" w="96" h="27" measuredW="96" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C109%2C189%2C136%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%222%22/%3E</map>
+        <text>HOME%20PAGE</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="844" y="329" w="168" h="-1" measuredW="80" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>right</direction>
+        <href>JunglePay%26bm%3BJunglePay.bmml%26bm%3BJunglePay.bmml%26bm%3BJunglePay.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C227%2C225%2C254%22%20href%3D%22JunglePay.bmml%22%20alt%3D%22JunglePay%22%20id%3D%223%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>1%3A30%20pm%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="844" y="375" w="168" h="-1" measuredW="80" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>right</direction>
+        <href>JunglePay%26bm%3BJunglePay.bmml%26bm%3BJunglePay.bmml%26bm%3BJunglePay.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C273%2C225%2C300%22%20href%3D%22JunglePay.bmml%22%20alt%3D%22JunglePay%22%20id%3D%224%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>4%3A30%20PM</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::PointyButton" x="859" y="272" w="139" h="-1" measuredW="144" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <borderStyle>square</borderStyle>
+        <color>11982760</color>
+        <direction>center</direction>
+        <newLayout>true</newLayout>
+        <size>18</size>
+        <text>Select%20Timings</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="844" y="423" w="168" h="-1" measuredW="80" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>11982760</color>
+        <direction>right</direction>
+        <href>JunglePay%26bm%3BJunglePay.bmml%26bm%3BJunglePay.bmml%26bm%3BJunglePay.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2257%2C321%2C225%2C348%22%20href%3D%22JunglePay.bmml%22%20alt%3D%22JunglePay%22%20id%3D%226%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <newLayout>true</newLayout>
+        <text>4%3A30%20PM</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="814" y="211" w="38" h="27" measuredW="95" measuredH="84" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Master%20Page%201%26bm%3BMaster%20Page%201.bmml%26bm%3BMaster%20Page%201.bmml%26bm%3BMaster%20Page%201.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C109%2C65%2C136%22%20href%3D%22Master%2520Page%25201.bmml%22%20alt%3D%22Master%20Page%201%22%20id%3D%228%22/%3E</map>
+        <src>./assets/FullSizeRender.jpg</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

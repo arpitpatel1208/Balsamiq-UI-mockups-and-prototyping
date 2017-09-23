@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1020" measuredH="641" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="738" y="68" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allBlack</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="765" y="166" w="228" h="392" measuredW="550" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="831" y="175" w="96" h="28" measuredW="96" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C107%2C189%2C135%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%222%22/%3E</map>
+        <text>HOME%20PAGE</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextArea" x="779" y="269" w="200" h="111" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Here%2C%20you%20can%20hold%20your%20tickets.%20But%20you%20have%20to%20reach%20theatre%2030%20minutes%20before%20the%20show%20starts%2C%20otherwise%20your%20tickets%20are%20going%20to%20be%20cancelled%20automatically.</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::PointyButton" x="765" y="176" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <href>Payment%26bm%3BPayment.bmml%26bm%3BPayment.bmml%26bm%3BPayment.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C108%2C86%2C135%22%20href%3D%22Payment.bmml%22%20alt%3D%22Payment%22%20id%3D%228%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

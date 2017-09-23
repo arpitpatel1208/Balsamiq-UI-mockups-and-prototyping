@@ -1,0 +1,29 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="995" measuredH="598" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="713" y="25" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="738" y="123" w="232" h="392" measuredW="550" measuredH="348" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/interior.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="806" y="158" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>HOMEPAGE%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml%26bm%3BHOMEPAGE.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2293%2C133%2C189%2C160%22%20href%3D%22HOMEPAGE.bmml%22%20alt%3D%22HOMEPAGE%22%20id%3D%222%22/%3E</map>
+        <text>HOME%20PAGE</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Alert" x="756" y="214" w="-1" h="-1" measuredW="200" measuredH="149" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Payment%26bm%3BPayment.bmml%26bm%3BPayment.bmml%26bm%3BPayment.bmml%2Cconfiramtion%20of%20hold%26bm%3Bconfiramtion%20of%20hold.bmml%26bm%3Bconfiramtion%20of%20hold.bmml%26bm%3Bconfiramtion%20of%20hold.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C300%2C142%2C337%22%20href%3D%22Payment.bmml%22%20alt%3D%22Payment%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22144%2C300%2C242%2C337%22%20href%3D%22confiramtion%2520of%2520hold.bmml%22%20alt%3D%22confiramtion%20of%20hold%22%20id%3D%223%22/%3E</map>
+        <text>Alert%0AYou%20read%20this%20agreement%20and%20you%20are%20ready%20to%20go%20to%20select%20this%20features%20%3F%0ANo%2C%20Yes</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
